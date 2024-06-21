@@ -1,4 +1,7 @@
-# HTML5 Website Templates (For Begginers and Professionals)
+Pour traduire la page, cliquez sur le bouton droit de la souris et allez à traduire et sélectionnez la langue souhaitée
+
+
+# HTML5 Website Templates (For Begginers and Professionals) 
  
 > *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
 
